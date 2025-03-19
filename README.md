@@ -42,3 +42,7 @@ python database_finance.py
 ```bash
 streamlit run app.py
 ```
+
+## Aluno  
+Eric Akio Uchiyamada  
+RA: 10395287
