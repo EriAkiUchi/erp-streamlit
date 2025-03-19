@@ -42,7 +42,10 @@ python database_finance.py
 ```bash
 streamlit run app.py
 ```
-
+## Funcionalidades Implementadas  
+- Fluxo de Caixa por Mês: Gráfico de linha ou de barras mostrando a receita e despesa ao longo dos meses
+- Status das Contas a Pagar e Receber: Gráfico de barras mostrando o total de contas "Pendentes" vs "Pagas/Recebidas"
+- Top 5 Clientes com Maior Receita: Tabela e gráfico de barras mostrando os clientes que mais geram receita
 ## Aluno  
 Eric Akio Uchiyamada  
 RA: 10395287
